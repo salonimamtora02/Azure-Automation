@@ -1,0 +1,15 @@
+/home/seaflux/MyApp/bin/Debug/net6.0/MyApp
+/home/seaflux/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/seaflux/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/seaflux/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/seaflux/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/home/seaflux/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/seaflux/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/seaflux/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
